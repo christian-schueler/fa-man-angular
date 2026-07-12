@@ -1,2 +1,1 @@
-# fa-man-angular
-Facility Manager in Angular
+# Facility Manager in Angular
